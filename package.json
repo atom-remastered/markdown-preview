@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "coffeelint": "^2.1.0",
-    "standard": "^10.0.3",
+    "standard": "^17.1.2",
     "temp": "^0.9.4"
   },
   "deserializers": {
